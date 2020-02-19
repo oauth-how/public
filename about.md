@@ -10,8 +10,8 @@ But how it works, how to implement it, test it, etc?
 
 There are already resources that cover extensively the topic like
 [oauth.org](https://oauth.org) / [oauth.com](https://oauth.com) with detailed
-documentation and guides, the idea behind **oauth.how** is a "first steps HOW
-TO"
+documentation and guides, however, the idea behind **oauth.how** is a "HOW TO"
+in simple terms.
 
 Being a broad topic and in the spirit to try to keep things as easy as possible
 ([KISS](https://en.wikipedia.org/wiki/KISS_principle)) please consider
